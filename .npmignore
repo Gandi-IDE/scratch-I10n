@@ -7,3 +7,8 @@
 .npmignore
 .travis.yml
 webpack.config.js
+
+# powered by xigua
+www
+script
+editor
