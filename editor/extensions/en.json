@@ -1,4 +1,10 @@
 {
+    "redBoard.categoryName": "Red Board",
+    "redBoard.magicNumber": "Magic Number",
+    "redBoard.xiguaWhenUSBConnect": "when red board is [BTN]",
+    "redBoard.xiguaIsConnected": "whether red board is connected？",
+    "redBoard.connected": "connected",
+    "redBoard.disconnect": "disconnect",
     "boost.color.any": "any color",
     "boost.color.black": "black",
     "boost.color.blue": "blue",

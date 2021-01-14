@@ -1,4 +1,10 @@
 {
+    "redBoard.categoryName": "小红板",
+    "redBoard.magicNumber": "魔法数值",
+    "redBoard.xiguaWhenUSBConnect": "当小红板 [BTN] 时",
+    "redBoard.xiguaIsConnected": "小红板是否连接？",
+    "redBoard.connected": "连接",
+    "redBoard.disconnect": "断开",
     "boost.color.any": "任何颜色",
     "boost.color.black": "黑色",
     "boost.color.blue": "蓝色",
