@@ -1,5 +1,5 @@
 {
-    "name": "scratch-l10n",
+    "name": "@xigua/scratch-l10n",
     "version": "3.10.1",
     "description": "Localization for the Scratch 3.0 components",
     "main": "./dist/l10n.js",
