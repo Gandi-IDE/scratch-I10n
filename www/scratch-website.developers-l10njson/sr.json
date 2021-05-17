@@ -1,7 +1,7 @@
 {
     "developers.hereLinkText": "овде",
     "developers.title": "Скрач за програмере",
-    "developers.introLinkText": "Скрач тим на MIT",
+    "developers.introLinkText": "Скрач тим",
     "developers.intro": "На овој страни наћи ћеш информације о пројектима отвореног кода које је створио и одржава {introLink}, као и наше мишљење о најбољој пракси за стварање искуства учења код деце.",
     "developers.projectsTitle": "Пројекти",
     "developers.principlesTitle": "Принципи",
@@ -56,5 +56,5 @@
     "developers.faqDifferencesTitle": "Каква је разлика између Blockly-ја и Скрач блокова?",
     "developers.faqDifferencesBody": "Скрач блокови су направљени на бази Blockly кода и посебно су дизајнирани у складу са нашим принципима да би пружали искуство креативног учења.",
     "developers.faqCollabTitle": "Желео бих да сарађујем. Како могу да остварим контакт?",
-    "developers.faqCollabBody": "You can reach us over on {githubLink} or you can send an email to {emailLink}. We look forward to hearing from you!"
+    "developers.faqCollabBody": "You can reach us over on {githubLink} or on our {contactUsLink} page. We look forward to hearing from you!"
 }
