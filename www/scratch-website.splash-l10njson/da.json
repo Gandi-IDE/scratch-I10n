@@ -13,7 +13,7 @@
     "messages.becomeManagerText": "{username} blev forfremmet til manager af {studio}",
     "messages.favoriteText": "{profileLink} favoriserede {projectLink}",
     "messages.followProfileText": "{profileLink} følger nu {followeeLink}",
-    "messages.followStudioText": "{profileLink} is now following {studioLink}",
+    "messages.followStudioText": "{profileLink} følger nu {studioLink}",
     "messages.loveText": "{profileLink} syntes godt om {projectLink}",
     "messages.remixText": "{profileLink} har remixet {remixedProjectLink} som {projectLink}",
     "messages.shareText": "{profileLink} delte projektet {projectLink}",
@@ -26,6 +26,7 @@
     "intro.tagLine2": "Del med andre rundt om i verden",
     "intro.watchVideo": "Se video",
     "news.scratchNews": "Scratch Nyheder",
+    "donatebanner.askSupport": "Scratch is the world's largest free coding community for kids. Your support makes a difference.",
     "teacherbanner.greeting": "Hej",
     "teacherbanner.subgreeting": "Lærerkonto",
     "teacherbanner.classesButton": "Mine klasser",
@@ -35,10 +36,11 @@
     "hocbanner.imagine": "Forestil dig en verden",
     "hocbanner.codeACartoon": "Kod en tegneseriefigur",
     "hocbanner.talking": "Tale historier",
+    "hocbanner.makeItFly": "Få det til at flyve",
     "welcome.welcomeToScratch": "Velkommen til Scratch!",
     "welcome.learn": "Lær hvordan man laver et projekt i Scratch",
     "welcome.tryOut": "Prøv nogle begynder projekter",
     "welcome.connect": "Få kontakt med andre Scratchere",
     "activity.seeUpdates": "Her kan du se opdateringer fra de Scratchere som du følger",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Tjek nogle Scratchere ud, som du måske gerne vil følge"
 }
