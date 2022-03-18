@@ -504,5 +504,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "我的作品",
     
-    "gui.ccw.compilerMode.active":"编译模式"
+    "gui.ccw.compilerMode.active":"编译模式",
+    "gui.ccw.menuBar.compilerModeOff": "关闭编译模式",
+    "gui.ccw.menuBar.compilerModeOn": "打开编译模式"
 }
