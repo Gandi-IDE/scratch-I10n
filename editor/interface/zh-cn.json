@@ -64,6 +64,7 @@
     "gui.customProcedures.booleanType": "布尔值",
     "gui.customProcedures.addALabel": "添加文本标签：",
     "gui.customProcedures.runWithoutScreenRefresh": "运行时不刷新屏幕",
+    "gui.customProcedures.customReporter": "返回值积木",
     "gui.customProcedures.cancel": "取消",
     "gui.customProcedures.ok": "完成",
     "gui.SpriteInfo.direction": "方向",
