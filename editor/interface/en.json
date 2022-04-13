@@ -65,6 +65,7 @@
     "gui.customProcedures.addALabel": "Add a label",
     "gui.customProcedures.runWithoutScreenRefresh": "Run without screen refresh",
     "gui.customProcedures.customReporter": "Custom reporter",
+    "gui.customProcedures.global": "For all sprite",
     "gui.customProcedures.cancel": "Cancel",
     "gui.customProcedures.ok": "OK",
     "gui.SpriteInfo.direction": "Direction",
