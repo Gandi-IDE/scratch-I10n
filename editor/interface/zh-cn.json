@@ -58,6 +58,7 @@
     "gui.crashMessage.errorNumber": "该错误已记录，编号{errorId}",
     "gui.crashMessage.reload": "重新载入",
     "gui.customProcedures.myblockModalTitle": "制作新的积木",
+    "gui.customProcedures.myblockEditModalTitle": "编辑自定义积木",
     "gui.customProcedures.addAnInputNumberText": "添加输入项",
     "gui.customProcedures.numberTextType": "数字或文本",
     "gui.customProcedures.addAnInputBoolean": "添加输入项",

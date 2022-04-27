@@ -58,6 +58,7 @@
     "gui.crashMessage.errorNumber": "Your error was logged with id {errorId}",
     "gui.crashMessage.reload": "Reload",
     "gui.customProcedures.myblockModalTitle": "Make a Block",
+    "gui.customProcedures.myblockEditModalTitle": "Edit Custom Block",
     "gui.customProcedures.addAnInputNumberText": "Add an input",
     "gui.customProcedures.numberTextType": "number or text",
     "gui.customProcedures.addAnInputBoolean": "Add an input",
