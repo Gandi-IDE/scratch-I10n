@@ -509,5 +509,7 @@
     
     "gui.ccw.compilerMode.active":"编译模式",
     "gui.ccw.menuBar.compilerModeOff": "关闭编译模式",
-    "gui.ccw.menuBar.compilerModeOn": "打开编译模式"
+    "gui.ccw.menuBar.compilerModeOn": "打开编译模式",
+
+    "gui.teamwork.workspaceUserTip": "{userName} 正在编辑该角色，一个角色暂不支持多人同时编辑。"
 }
