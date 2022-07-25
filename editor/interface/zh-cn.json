@@ -142,7 +142,7 @@
     "gui.gui.variableScopeOptionAllSprites": "适用于所有角色",
     "gui.gui.variableScopeOptionSpriteOnly": "仅适用于当前角色",
     "gui.gui.cloudVariableOption": "云变量 (存储在服务器上)",
-    "gui.gui.cloudListOption": "云列表 (存储在服务器上)",
+    "gui.gui.cloudListOption": "云列表 (存储在服务器上,长度限制10)",
     "gui.gui.variablePromptAllSpritesMessage": "所有角色都可使用该变量。",
     "gui.prompt.cancel": "取消",
     "gui.prompt.ok": "确定",
