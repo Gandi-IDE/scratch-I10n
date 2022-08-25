@@ -52,6 +52,7 @@
     "gui.connection.unavailable.tryagainbutton": "Try again",
     "gui.connection.unavailable.helpbutton": "Help",
     "gui.controls.go": "Go",
+    "gui.controls.pause": "Pause",
     "gui.controls.stop": "Stop",
     "gui.crashMessage.label": "Oops! Something went wrong.",
     "gui.crashMessage.description": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
