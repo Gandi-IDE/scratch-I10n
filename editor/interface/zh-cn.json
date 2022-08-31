@@ -53,6 +53,7 @@
     "gui.connection.unavailable.helpbutton": "帮助",
     "gui.controls.go": "运行",
     "gui.controls.stop": "停止",
+    "gui.controls.pause": "暂停",
     "gui.crashMessage.label": "呀，出错了。",
     "gui.crashMessage.description": "很抱歉，Scratch出故障了。这个问题已经自动报告给Scratch开发团队。请刷新页面再试试。",
     "gui.crashMessage.errorNumber": "该错误已记录，编号{errorId}",
