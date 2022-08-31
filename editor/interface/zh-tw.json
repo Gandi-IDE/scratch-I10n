@@ -53,6 +53,7 @@
     "gui.connection.unavailable.helpbutton": "幫助",
     "gui.controls.go": "開始",
     "gui.controls.stop": "停止",
+    "gui.controls.pause": "暫停",
     "gui.crashMessage.label": "哎呀！發生了一些錯誤。",
     "gui.crashMessage.description": "很抱歉，看起來 Scratch 崩潰了，錯誤已自動回報給 Scratch 團隊，請重新整理你的頁面，再試一次吧！",
     "gui.crashMessage.errorNumber": "錯誤已被紀錄，id 為 {errorId}",

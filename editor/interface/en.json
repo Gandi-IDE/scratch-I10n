@@ -54,6 +54,7 @@
     "gui.controls.go": "Go",
     "gui.controls.pause": "Pause",
     "gui.controls.stop": "Stop",
+    "gui.controls.pause": "Pause",
     "gui.crashMessage.label": "Oops! Something went wrong.",
     "gui.crashMessage.description": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
     "gui.crashMessage.errorNumber": "Your error was logged with id {errorId}",
@@ -506,5 +507,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "My Project"
+    "gui.gui.defaultProjectTitle": "My Project",
+    "gui.addons.searchCode.inputPlaceholder": "Filter blocks in project"
 }
