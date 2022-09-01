@@ -508,5 +508,6 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "My Project",
-    "gui.addons.searchCode.inputPlaceholder": "Filter blocks in project"
+    "gui.addons.searchCode.inputPlaceholder": "Filter blocks in project",
+    "gui.addons.searchCode.hoverText": "Quick Filters"
 }
