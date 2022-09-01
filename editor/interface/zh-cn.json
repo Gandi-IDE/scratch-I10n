@@ -508,6 +508,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "我的作品",
     "gui.addons.searchCode.inputPlaceholder": "筛选代码",
+    "gui.addons.searchCode.hoverText": "快速筛选",
     
     "gui.ccw.compilerMode.active":"编译模式",
     "gui.ccw.menuBar.compilerModeOff": "关闭编译模式",
