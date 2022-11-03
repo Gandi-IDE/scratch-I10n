@@ -255,6 +255,8 @@
     "gui.alerts.savingError": "Project could not save.",
     "gui.alerts.savesuccess": "Project saved.",
     "gui.alerts.saving": "Saving project…",
+    "gui.alerts.savingToCloud": "Saving...",
+    "gui.alerts.savedToCloud": "Saved to clound",
     "gui.alerts.cloudInfo": "Please note, cloud variables only support numbers, not letters or symbols. {learnMoreLink}",
     "gui.alerts.cloudInfoLearnMore": "Learn more.",
     "gui.alerts.importing": "Importing…",
