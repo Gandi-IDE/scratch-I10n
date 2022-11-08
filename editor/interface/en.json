@@ -133,6 +133,8 @@
     "gui.menuBar.saveNowLink": "Save Now",
     "gui.menuBar.isShared": "Shared",
     "gui.menuBar.share": "Share",
+    "gui.menuBar.cloudBackpack": "Cloud backpack",
+    "gui.menuBar.materialMarket": "Assets marketplace",
     "gui.modal.help": "Help",
     "gui.modal.back": "Back",
     "gui.monitor.listMonitor.empty": "(empty)",
