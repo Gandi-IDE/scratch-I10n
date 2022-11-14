@@ -261,6 +261,7 @@
     "gui.alerts.saving": "正在保存作品……",
     "gui.alerts.savingToCloud": "保存中...",
     "gui.alerts.savedToCloud": "已保存到云端",
+    "gui.alerts.saveToCloud": "保存到云端",
     "gui.alerts.cloudInfo": "请注意，云变量只支持数字，不能存放字母和符号。{learnMoreLink}",
     "gui.alerts.cloudInfoLearnMore": "进一步了解。",
     "gui.alerts.noSprite": "当前舞台未添加角色",
