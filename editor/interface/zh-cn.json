@@ -56,7 +56,6 @@
     "gui.controls.go": "运行",
     "gui.controls.pause": "暂停",
     "gui.controls.stop": "停止",
-    "gui.controls.pause": "暂停",
     "gui.crashMessage.label": "呀，出错了。",
     "gui.crashMessage.description": "很抱歉，Scratch出故障了。这个问题已经自动报告给Scratch开发团队。请刷新页面再试试。",
     "gui.crashMessage.errorNumber": "该错误已记录，编号{errorId}",
@@ -531,7 +530,7 @@
     "gui.setting.keybindings.title": "快捷键",
     "gui.setting.keybindings.teamworkMessage": "团队协作消息框",
     "gui.setting.keybindings.tips": "按键已被占用",
-    
+    "gui.setting.keybindings.ctrlKeyWarring": "Ctrl键在MAC上不可用.",
     "gui.ccw.compilerMode.active":"编译模式",
     "gui.ccw.menuBar.compilerModeOff": "关闭编译模式",
     "gui.ccw.menuBar.compilerModeOn": "打开编译模式",
