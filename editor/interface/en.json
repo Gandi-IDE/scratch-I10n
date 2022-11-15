@@ -519,7 +519,7 @@
     "gui.setting.keybindings.title": "Keybindings",
     "gui.setting.keybindings.teamworkMessage": "Teamwork Message",
     "gui.setting.keybindings.tips": "This shortcut is already taken.",
-    "gui.setting.keybindings.ctrlKeyWarring": "Ctrl is not available on MAC.",
+    "gui.setting.keybindings.ctrlKeyWarning": "Ctrl is not available on MAC.",
     "gui.projectLoader.loadError": "The project file that was selected failed to load.",
     "gui.sharedMessages.backdrop": "backdrop{index}",
     "gui.sharedMessages.costume": "costume{index}",
