@@ -529,5 +529,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "My Project",
     "gui.addons.searchCode.inputPlaceholder": "Filter blocks in project",
-    "gui.addons.searchCode.hoverText": "Quick Filters"
+    "gui.addons.searchCode.hoverText": "Quick Filters",
+    "gui.teamwork.workspaceUserTip": "{userName} is editing this sprite, a sprite is only edited by one user at a time.",
+    "gui.teamwork.chatTip": "对话框"
 }
