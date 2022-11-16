@@ -531,5 +531,5 @@
     "gui.addons.searchCode.inputPlaceholder": "Filter blocks in project",
     "gui.addons.searchCode.hoverText": "Quick Filters",
     "gui.teamwork.workspaceUserTip": "{userName} is editing this sprite, a sprite is only edited by one user at a time.",
-    "gui.teamwork.chatTip": "对话框"
+    "gui.teamwork.chatTip": "Cursor chat"
 }
