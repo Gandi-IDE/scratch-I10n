@@ -511,6 +511,7 @@
     "gui.opcodeLabels.second": "second",
     "gui.opcodeLabels.timer": "timer",
     "gui.setting.title": "Settings",
+    "gui.setting.mousePosition": "Mouse Position",
     "gui.setting.project.title": "Project",
     "gui.setting.project.stageSize": "Stage size",
     "gui.setting.general.title": "General",
