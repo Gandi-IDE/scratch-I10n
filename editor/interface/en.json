@@ -517,6 +517,8 @@
     "gui.setting.general.title": "General",
     "gui.setting.general.editorVersion": "Editor",
     "gui.setting.general.theme": "Theme",
+    "gui.setting.general.theme.dark": "Dark",
+    "gui.setting.general.theme.light": "Light",
     "gui.setting.advanced.title": "Advanced",
     "gui.setting.keybindings.title": "Keybindings",
     "gui.setting.keybindings.teamworkMessage": "Teamwork Message",
