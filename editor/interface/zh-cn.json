@@ -526,6 +526,7 @@
     "gui.setting.project.stageSize": "舞台比例",
     "gui.setting.general.title": "通用",
     "gui.setting.general.editorVersion": "编辑器",
+    "gui.setting.general.theme": "主题",
     "gui.setting.advanced.title": "高级",
     "gui.setting.mousePosition": "鼠标位置",
     "gui.setting.keybindings.title": "快捷键",
