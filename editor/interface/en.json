@@ -553,7 +553,7 @@
     "gui.addons.historicalVersion.restorePoint": "Restore to a previous version",
     "gui.addons.historicalVersion.restorePoint.description": "Are you sure you want to restore to this version?",
     "gui.addons.historicalVersion.restorePoint.teamworkDescription": "This operation will restore the progress of all team members. During the restoration, all collaborating members will be unable to take any actions.",
-    "gui.addons.historicalVersion.createdNode": "Restore points created by",
+    "gui.addons.historicalVersion.createdPoint": "created a restoration point",
     "gui.addons.historicalVersion.confirmDeletePoint": "Are you sure you want to delete this restore point?",
     "gui.addons.historicalVersion.createPointFailed": "Creating a restore point failed",
     "gui.addons.historicalVersion.storageSpaceFull": "The local storage space is full, and a restore point cannot be created. Please delete unnecessary restore points and try again.",
