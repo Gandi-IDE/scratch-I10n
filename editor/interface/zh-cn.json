@@ -101,6 +101,7 @@
     "gui.loader.assets.unknown": "下载素材中...",
     "gui.loader.data": "下载作品数据中...",
     "gui.loader.generic": "加载作品中...",
+    "gui.loader.error.handler": "工程加载时间过长，若长时间无法打开，可尝试还原到历史版本",
     "gui.accountMenu.profile": "个人资料",
     "gui.accountMenu.myStuff": "我的东西",
     "gui.accountMenu.myClasses": "我的所有班级",

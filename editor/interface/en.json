@@ -99,6 +99,7 @@
     "gui.loader.assets.unknown": "Downloading assets …",
     "gui.loader.data": "Downloading project data …",
     "gui.loader.generic": "Loading project …",
+    "gui.loader.error.handler": "The project is taking a long time to load. If it is unable to open after a long period of time, you may try restoring to a previous version.",
     "gui.accountMenu.profile": "Profile",
     "gui.accountMenu.myStuff": "My Stuff",
     "gui.accountMenu.myClasses": "My Classes",
