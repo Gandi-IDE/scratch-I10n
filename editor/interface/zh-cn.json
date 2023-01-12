@@ -559,6 +559,8 @@
     "gui.addons.historicalVersion.confirmRestore": "确认还原",
     "gui.addons.historicalVersion.later": "我再想想",
     "gui.addons.historicalVersion.gotIt": "知道了",
+    "gui.addons.historicalVersion.cloudList.empty": "请先创建本地版本，再同步至云端",
+    "gui.addons.historicalVersion.lastRelease": "最近一次发布的版本",
     "gui.setting.title": "设置",
     "gui.setting.project.title": "作品",
     "gui.setting.project.stageSize": "舞台比例",

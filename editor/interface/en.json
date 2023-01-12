@@ -571,6 +571,8 @@
     "gui.addons.historicalVersion.confirmRestore": "Confirm restore",
     "gui.addons.historicalVersion.later": "Later",
     "gui.addons.historicalVersion.gotIt": "Got it",
+    "gui.addons.historicalVersion.cloudList.empty": "Please create a local version first, then synchronize to the cloud",
+    "gui.addons.historicalVersion.lastRelease": "The most recently published version",
     "gui.teamwork.workspaceUserTip": "{userName} is editing this sprite, a sprite is only edited by one user at a time.",
     "gui.teamwork.cursorChat": "Cursor chat",
     "gui.teamwork.cursorChat.title": "Cursor Chat"
