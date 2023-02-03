@@ -2,6 +2,7 @@
     "gui.alerts.lostPeripheralConnection": "Scratch lost connection to {extensionName}.",
     "gui.alerts.tryAgain": "Try Again",
     "gui.alerts.download": "Download",
+    "gui.alerts.loadCostumeWarning": "Error with the '{targetName}' costume in the '{costumeName}' sprite, please try redrawing the costume.",
     "gui.connection.reconnect": "Reconnect",
     "gui.backpack.costumeLabel": "costume",
     "gui.backpack.soundLabel": "sound",
