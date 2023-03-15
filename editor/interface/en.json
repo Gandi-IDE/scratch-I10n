@@ -545,7 +545,7 @@
     "gui.setting.dropdown.searchable.data.type": "Searchable data-type block",
     "gui.setting.asyncLoadProjectAssets": "Load project assets asynchronously",
     "gui.setting.asyncLoadProjectAssets.progress": "Assets loading: ",
-    "gui.setting.asyncLoadProjectAssets.helpText": "When enabled, assets are loaded asynchronously when the project is reloaded, which can improve the speed of opening the project.",
+    "gui.setting.asyncLoadProjectAssets.helpText": "This is an experimental feature. Enabling it will asynchronously load code and resource files, improving project open speed, but resource loading speed may be reduced.",
     "gui.projectLoader.loadError": "The project file that was selected failed to load.",
     "gui.sharedMessages.backdrop": "backdrop{index}",
     "gui.sharedMessages.costume": "costume{index}",

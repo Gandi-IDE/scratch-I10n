@@ -590,7 +590,7 @@
     "gui.setting.dropdown.searchable.data.type": "数值类积木可搜索",
     "gui.setting.asyncLoadProjectAssets": "异步加载工程资源文件",
     "gui.setting.asyncLoadProjectAssets.progress": "资源加载中: ",
-    "gui.setting.asyncLoadProjectAssets.helpText": "开启后，重新加载工程时，资源文件会异步加载，可提高工程打开速度。",
+    "gui.setting.asyncLoadProjectAssets.helpText": "这是一个实验性功能，开启后代码和资源文件将异步加载，提升工程打开速度，但资源加载速度可能会降低。",
     "gui.statistics.description": "当前角色{type}/总{type}",
     "gui.ccw.compilerMode.active": "编译模式",
     "gui.ccw.menuBar.compilerModeOff": "关闭编译模式",
