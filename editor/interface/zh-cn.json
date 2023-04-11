@@ -473,6 +473,7 @@
     "gui.extension.wedo2.connectingMessage": "正在连接",
     "gui.extension.gdxfor.description": "感受推拉动转。",
     "gui.extension.gdxfor.connectingMessage": "正在连接",
+    "gui.extension.compatibilityWarning": "此扩展不是 Scratch 原生扩展，用它制作的作品在其他 Scratch 编辑器可能不能正确加载。\n 您可以在 cocrea.world 与 ccw.site 上发布共享该作品。",
     "gui.libraryTags.all": "所有",
     "gui.libraryTags.animals": "动物",
     "gui.libraryTags.dance": "舞蹈",

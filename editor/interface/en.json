@@ -471,6 +471,7 @@
     "gui.extension.wedo2.connectingMessage": "Connecting",
     "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
     "gui.extension.gdxfor.connectingMessage": "Connecting",
+    "gui.extension.compatibilityWarning": "This extension is incompatible with Scratch. Projects made with it cannot be uploaded to the Scratch website. You can share the project on Cocrea. Make sure before you use it.",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",
