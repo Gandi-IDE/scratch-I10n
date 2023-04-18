@@ -245,6 +245,8 @@
     "gui.costumeTab.addSurpriseCostume": "随机",
     "gui.costumeTab.addFileBackdrop": "上传背景",
     "gui.costumeTab.addFileCostume": "上传造型",
+    "gui.costumeTab.addAICostume": "AI绘图",
+    "gui.costumeTab.disabledAICostume": "本节练习不支持AI绘图哦",
     "gui.extensionLibrary.chooseAnExtension": "选择一个扩展",
     "gui.extensionLibrary.extensionUrl": "键入扩展的URL",
     "gui.monitors.importListColumnPrompt": "使用第几列（1-{numberOfColumns}）？",
