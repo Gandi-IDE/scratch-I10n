@@ -10,6 +10,7 @@
     "paint.paintEditor.ungroup": "Ungroup",
     "paint.paintEditor.undo": "Undo",
     "paint.paintEditor.redo": "Redo",
+    "paint.paintEditor.removeBg": "Remove Background",
     "paint.paintEditor.forward": "Forward",
     "paint.paintEditor.backward": "Backward",
     "paint.paintEditor.front": "Front",
