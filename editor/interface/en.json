@@ -243,7 +243,7 @@
     "gui.costumeTab.addSurpriseCostume": "Surprise",
     "gui.costumeTab.addFileBackdrop": "Upload Backdrop",
     "gui.costumeTab.addFileCostume": "Upload Costume",
-    "gui.costumeTab.addHDFileCostume": "Upload HD Costume",
+    "gui.costumeTab.addHDFileImage": "Upload HD Image",
     "gui.costumeTab.addAICostume": "AI Drawing",
     "gui.costumeTab.disabledAICostume": "AI drawing can not be used in this section",
     "gui.extensionLibrary.chooseAnExtension": "Choose an Extension",
