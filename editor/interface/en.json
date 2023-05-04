@@ -551,7 +551,7 @@
     "gui.setting.asyncLoadProjectAssets.progress": "Assets loading: ",
     "gui.setting.asyncLoadProjectAssets.helpText": "This is an experimental feature. Enabling it will asynchronously load code and resource files, improving project open speed, but resource loading speed may be reduced.",
     "gui.setting.hdImageUpload.title": "HD image upload",
-    "gui.setting.hdImageUpload.description": "Use high-definition upload when uploading images in customer",
+    "gui.setting.hdImageUpload.description": "When uploading images in the styling area, use high-definition upload. Once enabled, the uploaded images will not compress the quality, and excessively large images may affect the running effect",
     "gui.projectLoader.loadError": "The project file that was selected failed to load.",
     "gui.sharedMessages.backdrop": "backdrop{index}",
     "gui.sharedMessages.costume": "costume{index}",
