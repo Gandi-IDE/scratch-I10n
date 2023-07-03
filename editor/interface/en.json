@@ -207,6 +207,7 @@
     "gui.spriteSelector.addSpriteFromPaint": "Paint",
     "gui.spriteSelector.addSpriteFromSurprise": "Surprise",
     "gui.spriteSelector.addSpriteFromFile": "Upload Sprite",
+    "gui.spriteSelector.xiguaGPT": "Xigua-GPT",
     "gui.stageHeader.stageSizeLarge": "Switch to large stage",
     "gui.stageHeader.stageSizeSmall": "Switch to small stage",
     "gui.stageHeader.stageSizeFull": "Enter full screen mode",

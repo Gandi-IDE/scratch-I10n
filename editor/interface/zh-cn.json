@@ -209,6 +209,7 @@
     "gui.spriteSelector.addSpriteFromPaint": "绘制",
     "gui.spriteSelector.addSpriteFromSurprise": "随机",
     "gui.spriteSelector.addSpriteFromFile": "上传角色",
+    "gui.spriteSelector.xiguaGPT": "西瓜-GPT",
     "gui.stageHeader.stageSizeLarge": "放大舞台",
     "gui.stageHeader.stageSizeSmall": "缩小舞台",
     "gui.stageHeader.stageSizeFull": "进入全屏模式",
