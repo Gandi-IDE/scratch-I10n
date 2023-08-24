@@ -3,6 +3,7 @@
     "gui.alerts.tryAgain": "Try Again",
     "gui.alerts.download": "Download",
     "gui.alerts.loadCostumeWarning": "Error with the '{targetName}' costume in the '{costumeName}' sprite, please try redrawing the costume.",
+    "gui.alerts.deletingGlobalVariable": "The delete operation will only remove the variable from the current sprite, and other sprites will not be affected. If you want to completely delete the variable, make sure that no other sprites are using it.",
     "gui.connection.reconnect": "Reconnect",
     "gui.backpack.costumeLabel": "costume",
     "gui.backpack.soundLabel": "sound",

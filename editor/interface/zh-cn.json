@@ -3,6 +3,7 @@
     "gui.alerts.tryAgain": "重试",
     "gui.alerts.download": "下载",
     "gui.alerts.loadCostumeWarning": "请注意：“{targetName}”角色中的“{costumeName}”造型出现异常，请尝试重新绘制该造型。",
+    "gui.alerts.deletingGlobalVariable": "删除操作仅会删除当前角色中的变量，其他角色不会受到影响。若想完全删除，需确保其他角色均未再使用该变量。",
     "gui.connection.reconnect": "重新连接",
     "gui.backpack.costumeLabel": "造型",
     "gui.backpack.soundLabel": "声音",
