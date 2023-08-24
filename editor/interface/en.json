@@ -601,8 +601,8 @@
     "gui.teamwork.workspaceUserTip": "{userName} is editing this sprite, a sprite is only edited by one user at a time.",
     "gui.teamwork.cursorChat": "Cursor chat",
     "gui.teamwork.cursorChat.title": "Cursor Chat",
-    "gui.extension.custom.load.inputURLTip": "{extName}The URL address of extension file is not provided, \n please enter one of its file URL address :\n([⚠️ danger] empty can be forcibly loaded)",
-    "gui.extension.custom.load.noURLWarning":"{extName}The URL address of extension file is not found,\n[⚠️ danger] Using blocks of this extension may cause project loading failure after saving \n[⚠️ danger] forcibly continue?",
-    "gui.extension.custom.load.replaceURLTip": "{extName}Find new URL,\n  new: {newURL}\n  old: {oldURL}\n Replace with new address?",
+    "gui.extension.custom.load.inputURLTip": "extension:{extName}The URL address of extension file is not provided, \n please enter one of its file URL address :\n([⚠️ danger] empty can be forcibly loaded)",
+    "gui.extension.custom.load.noURLWarning":"extension:{extName}The URL address of extension file is not found,\n[⚠️ danger] Using blocks of this extension may cause project loading failure after saving \n[⚠️ danger] forcibly continue?",
+    "gui.extension.custom.load.replaceURLTip": "extension:{extName}Find new URL,\n  new: {newURL}\n  old: {oldURL}\n Replace with new address?",
     "gui.extension.custom.load.invalidURLWarning":"URL is invalid, the extension will be forcibly loaded"
 }

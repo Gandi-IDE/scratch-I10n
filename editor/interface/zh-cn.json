@@ -606,8 +606,8 @@
     "gui.teamwork.workspaceUserTip": "{userName} 正在编辑该角色，一个角色暂不支持多人同时编辑。",
     "gui.teamwork.cursorChat": "对话框",
     "gui.teamwork.cursorChat.title": "对话框",
-    "gui.extension.custom.load.inputURLTip":"{extName}在注册时未提供其代码文件的 CDN 地址，为了正常保存和读取\n请输入一个它的文件 URL 地址:\n([⚠️危]为空可以强行加载)",
-    "gui.extension.custom.load.noURLWarning":"{extName}没有代码文件的 URL 地址\n[⚠️危]使用该扩展的积木可能会导致工程保存后无法正常加载该扩展\n[⚠️危]强行继续吗？",
-    "gui.extension.custom.load.replaceURLTip":"{extName}发现新的 URL 地址，\n  新: {newURL}\n  旧: {oldURL}\n是否替换为新地址？",
+    "gui.extension.custom.load.inputURLTip":"扩展:{extName}在注册时未提供其代码文件的 CDN 地址，为了正常保存和读取\n请输入一个它的文件 URL 地址:\n([⚠️危]为空可以强行加载)",
+    "gui.extension.custom.load.noURLWarning":"扩展:{extName}没有代码文件的 URL 地址\n[⚠️危]使用该扩展的积木可能会导致工程保存后无法正常加载该扩展\n[⚠️危]强行继续吗？",
+    "gui.extension.custom.load.replaceURLTip":"扩展:{extName}发现新的 URL 地址，\n  新: {newURL}\n  旧: {oldURL}\n是否替换为新地址？",
     "gui.extension.custom.load.invalidURLWarning":"不是合法的 URL 地址，将强行加载该扩展"
 }
