@@ -60,6 +60,8 @@
     "gui.crashMessage.description": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
     "gui.crashMessage.errorNumber": "Your error was logged with id {errorId}",
     "gui.crashMessage.reload": "Reload",
+    "gui.crashMessage.recoveryMode":"Load restore point",
+    "gui.crashMessage.noRestorePoint": "No restore point for this project",
     "gui.customProcedures.%tip": "% is not allowed in the name.",
     "gui.customProcedures.myblockModalTitle": "Make a Block",
     "gui.customProcedures.myblockEditModalTitle": "Edit Custom Block",
