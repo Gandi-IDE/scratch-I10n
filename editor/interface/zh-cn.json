@@ -641,5 +641,8 @@
     "tw.blocks.mouseButton.middle": "（1）中键",
     "tw.blocks.mouseButton.primary": "（0）左键",
     "tw.blocks.mouseButton.secondary": "（2）右键",
-    "tw.blocks.openDocs": "打开文档"
+    "tw.blocks.openDocs": "打开文档",
+    "gui.codeTab.fileMenu.installExt":"加载到工程",
+    "gui.codeTab.fileMenu.rename":"重命名",
+    "gui.codeTab.fileMenu.delete":"删除"
 }
