@@ -90,6 +90,8 @@
     "gui.extensionLibrary.comingSoon": "即将启用",
     "gui.extensionLibrary.requires": "系统需求",
     "gui.extensionLibrary.collaboration": "合作者",
+    "gui.extensionLibrary.gridLayout": "网格布局",
+    "gui.extensionLibrary.listLayout": "列表布局",
     "gui.library.filterPlaceholder": "搜索",
     "gui.library.allTag": "所有",
     "gui.loader.message1": "正在创建积木……",
@@ -644,5 +646,6 @@
     "tw.blocks.openDocs": "打开文档",
     "gui.codeTab.fileMenu.installExt":"加载到工程",
     "gui.codeTab.fileMenu.rename":"重命名",
-    "gui.codeTab.fileMenu.delete":"删除"
+    "gui.codeTab.fileMenu.delete":"删除",
+    "gui.extension"
 }
