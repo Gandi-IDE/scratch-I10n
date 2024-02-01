@@ -646,6 +646,5 @@
     "tw.blocks.openDocs": "打开文档",
     "gui.codeTab.fileMenu.installExt":"加载到工程",
     "gui.codeTab.fileMenu.rename":"重命名",
-    "gui.codeTab.fileMenu.delete":"删除",
-    "gui.extension"
+    "gui.codeTab.fileMenu.delete":"删除"
 }
