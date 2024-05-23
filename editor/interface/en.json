@@ -640,5 +640,11 @@
     "gui.extension.extensionPath.save": "Save",
     "gui.extension.extensionPath.clear": "Clear",
     "gui.extension.extensionPath.complete": "Complete",
-    "gui.extension.extensionPath.saveSuccessful": "Save successful"
+    "gui.extension.extensionPath.saveSuccessful": "Save successful",
+    "gui.codeEditor.fileMenu.installExt": "Install Extension",
+    "gui.codeEditor.fileMenu.rename": "Rename",
+    "gui.codeEditor.fileMenu.delete": "Delete",
+    "gui.codeEditor.error.duplicateNames": "Duplicate names",
+    "gui.codeEditor.error.invalidCharacters": "Invalid Characters {invalid}",
+    "gui.codeEditor.error.multipleExtensionFile": "Only one extension script file in each project"
 }
