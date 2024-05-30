@@ -2,7 +2,7 @@
     "gui.alerts.lostPeripheralConnection": "Scratch与{extensionName}的连接已断开。",
     "gui.alerts.tryAgain": "重试",
     "gui.alerts.download": "下载",
-    "gui.alerts.loadTargetAssetFailed": "角色“{targetName}”中的“{name}”{type}的数据加载失败。",
+    "gui.alerts.loadTargetAssetFailed": "角色“{targetName}”中的{type}“{name}”的数据加载失败。",
     "gui.alerts.loadGandiAssetFailed": "代码编辑器中的“{name}”文件的数据加载失败。",
     "gui.alerts.deletingGlobalVariable": "删除操作仅会删除当前角色中的变量，其他角色不会受到影响。若想完全删除，需确保其他角色均未再使用该变量。",
     "gui.connection.reconnect": "重新连接",
