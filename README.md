@@ -1,8 +1,16 @@
 # scratch-l10n
 
-Translation of all Scratch projects is managed on the Transifex service: https://www.transifex.com/llk/public
 
-This repository collects translations submitted to the Scratch projects on Transifex. **Please do not submit PRs. If you would like to contribute translations, please sign up to translate on Transifex.**
+## How to Contribute Translations？
+
+1. All localization-related files are located in the editor directory.
+2. Currently, Gandi IDE only supports English and Chinese localization. Please provide translations for other languages based on the English localization.
+3. Submit your translations via a pull request.
+4. If you are not familiar with GitHub, please send the translated content via email or contact the official team or mod team on the Gandi Discord server.
+
+- Email: gandi.ide@gmail.com
+- Discord: [https://discord.gg/gandi](https://discord.gg/gandi)
+
 
 ## Using scratch-l10n in development
 
