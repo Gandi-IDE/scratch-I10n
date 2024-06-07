@@ -19,7 +19,7 @@ const locales = {
     // 'et': {name: 'Eesti'},
     // 'el': {name: 'Ελληνικά'},
     'en': {name: 'English'},
-    // 'es': {name: 'Español'},
+    'es': {name: 'Español'},
     // 'es-419': {name: 'Español Latinoamericano'},
     // 'eu': {name: 'Euskara'},
     // 'fa': {name: 'فارسی'},
@@ -44,6 +44,7 @@ const locales = {
     // 'hu': {name: 'Magyar'},
     // 'mi': {name: 'Māori'},
     // 'mn': {name: 'Монгол хэл'},
+    'ms': {name: 'Malay'},
     // 'nl': {name: 'Nederlands'},
     // 'ja': {name: '日本語'},
     // 'ja-Hira': {name: 'にほんご'},
@@ -57,7 +58,7 @@ const locales = {
     // 'pt-br': {name: 'Português Brasileiro'},
     // 'rap': {name: 'Rapa Nui'},
     // 'ro': {name: 'Română'},
-    // 'ru': {name: 'Русский'},
+    'ru': {name: 'Русский'},
     // 'sr': {name: 'Српски'},
     // 'sk': {name: 'Slovenčina'},
     // 'sl': {name: 'Slovenščina'},
@@ -65,7 +66,7 @@ const locales = {
     // 'sv': {name: 'Svenska'},
     // 'vi': {name: 'Tiếng Việt'},
     // 'tr': {name: 'Türkçe'},
-    // 'uk': {name: 'Українська'},
+    'uk': {name: 'Українська'},
     'zh-cn': {name: '简体中文'}
     // 'zh-tw': {name: '繁體中文'}
 };
