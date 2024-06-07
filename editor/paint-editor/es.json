@@ -10,6 +10,7 @@
     "paint.paintEditor.ungroup": "Desagrupar",
     "paint.paintEditor.undo": "Deshacer",
     "paint.paintEditor.redo": "Rehacer",
+    "paint.paintEditor.removeBg": "Eliminar Fondo",
     "paint.paintEditor.forward": "Adelante",
     "paint.paintEditor.backward": "Atrás",
     "paint.paintEditor.front": "Al frente",

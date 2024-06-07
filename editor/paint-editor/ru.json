@@ -11,6 +11,7 @@
     "paint.paintEditor.undo": "Отменить",
     "paint.paintEditor.redo": "Переделать",
     "paint.paintEditor.forward": "Вперёд",
+    "paint.paintEditor.removeBg": "Удалить фон",
     "paint.paintEditor.backward": "Назад",
     "paint.paintEditor.front": "На передний план",
     "paint.paintEditor.back": "На задний план",

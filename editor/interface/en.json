@@ -568,7 +568,7 @@
     "gui.setting.softwareUpdate.currentSoftwareVersion": "You are currently using the latest version: ",
     "gui.setting.softwareUpdate.checkForUpdates": "Check for Updates",
     "gui.setting.softwareUpdate.autoInstallUpdates": "Automatically install updates",
-    "gui.setting.softwareUpdate.autoInstallUpdatesDes": "如果自动安装关闭，您仍然会收到新版本通知，但需要手动单击“重新启动并更新”才能完成更新。",
+    "gui.setting.softwareUpdate.autoInstallUpdatesDes": "If automatic installation is turned off, you will still receive notifications of new versions, but you will need to manually click 'Restart and Update' to complete the update",
     "gui.projectLoader.loadError": "The project file that was selected failed to load.",
     "gui.sharedMessages.backdrop": "backdrop{index}",
     "gui.sharedMessages.costume": "costume{index}",

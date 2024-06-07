@@ -14,7 +14,7 @@ import en from 'react-intl/locale-data/en';
 // import da from 'react-intl/locale-data/da';
 // import de from 'react-intl/locale-data/de';
 // import el from 'react-intl/locale-data/el';
-// import es from 'react-intl/locale-data/es';
+import es from 'react-intl/locale-data/es';
 // import et from 'react-intl/locale-data/et';
 // import eu from 'react-intl/locale-data/eu';
 // import fa from 'react-intl/locale-data/fa';
@@ -39,13 +39,14 @@ import en from 'react-intl/locale-data/en';
 // import lv from 'react-intl/locale-data/lv';
 // import mi from 'react-intl/locale-data/mi';
 // import mn from 'react-intl/locale-data/mn';
+import ms from 'react-intl/locale-data/ms';
 // import nl from 'react-intl/locale-data/nl';
 // import nb from 'react-intl/locale-data/nb';
 // import nn from 'react-intl/locale-data/nn';
 // import pl from 'react-intl/locale-data/pl';
 // import pt from 'react-intl/locale-data/pt';
 // import ro from 'react-intl/locale-data/ro';
-// import ru from 'react-intl/locale-data/ru';
+import ru from 'react-intl/locale-data/ru';
 // import sl from 'react-intl/locale-data/sl';
 // import sk from 'react-intl/locale-data/sk';
 // import sr from 'react-intl/locale-data/sr';
@@ -53,7 +54,7 @@ import en from 'react-intl/locale-data/en';
 // import sw from 'react-intl/locale-data/sw';
 // import th from 'react-intl/locale-data/th';
 // import tr from 'react-intl/locale-data/tr';
-// import uk from 'react-intl/locale-data/uk';
+import uk from 'react-intl/locale-data/uk';
 // import uz from 'react-intl/locale-data/uz';
 // import vi from 'react-intl/locale-data/vi';
 import zh from 'react-intl/locale-data/zh';
@@ -75,7 +76,7 @@ let localeData = [].concat(
     // da,
     // de,
     // el,
-    // es,
+    es,
     // et,
     // eu,
     // fa,
@@ -100,6 +101,7 @@ let localeData = [].concat(
     // lv,
     // mi,
     // mn,
+    ms,
     // nl,
     // nb,
     // nn,
@@ -111,10 +113,10 @@ let localeData = [].concat(
     // sv,
     // sw,
     // ro,
-    // ru,
+    ru,
     // th,
     // tr,
-    // uk,
+    uk,
     // uz,
     // vi,
     zh,
